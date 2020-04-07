@@ -12,3 +12,5 @@ tid:
 aktivitet:
 
 följer med på aktivitet:
+
+aktiviteter,dag ,tid
