@@ -27,10 +27,10 @@ function App() {
   <input type="submit" value="Submit" />
 </form>
 <select>
-  <option value="grapefruit">Grapefruit</option>
-  <option value="lime">Lime</option>
-  <option selected value="coconut">Coconut</option>
-  <option value="mango">Mango</option>
+  <option value="grapefruit">Frida</option>
+  <option value="lime">Hanna</option>
+  <option selected value="coconut">Kerstin</option>
+  <option value="mango">Staffan</option>
 </select>
       </header>
     </div>
