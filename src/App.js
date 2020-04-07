@@ -16,8 +16,16 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          hej blabla  
         </a>
+
+        <form>
+  <label>
+    Name:
+    <input type="text" name="name" />
+  </label>
+  <input type="submit" value="Submit" />
+</form>
       </header>
     </div>
   );
