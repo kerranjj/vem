@@ -21,17 +21,22 @@ function App() {
 
         <form>
   <label>
-    Name:
+    dag:
     <input type="text" name="name" />
   </label>
-  <input type="submit" value="Submit" />
 </form>
+<label>
+  
+lagar mat:
+  
+
 <select>
+
   <option value="grapefruit">Frida</option>
   <option value="lime">Hanna</option>
   <option selected value="coconut">Kerstin</option>
   <option value="mango">Staffan</option>
-</select>
+</select></label><input type="submit" value="spara"/>
       </header>
     </div>
   );
