@@ -36,7 +36,16 @@ lagar mat:
   <option value="lime">Hanna</option>
   <option selected value="coconut">Kerstin</option>
   <option value="mango">Staffan</option>
-</select></label><input type="submit" value="spara"/>
+</select></label>
+
+jobbar hemma:   
+
+<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike"/>
+  <label for="vehicle1"> working today Hanna</label><br/>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car"/>
+  <label for="vehicle2"> working today Staffan</label><br/>
+
+<input type="submit" value="spara"/>
       </header>
     </div>
   );
